@@ -75,5 +75,12 @@ Response:
 * The Stanford CoreNLP pipeline is configured in the `Pipeline` class under `com.sawan_jr.nerapplication.core`. The annotators used include tokenization, sentence splitting, part-of-speech tagging, lemmatization, and named entity recognition.
 * the local is set to port: 8081
 
+## Contributors
+
+This project was developed by:
+- [Sawan Kumar](https://github.com/sawanjr)
+- [Nimish Shandhaliya](https://github.com/AnonymousTechnopath)
+
+
 ---
 
