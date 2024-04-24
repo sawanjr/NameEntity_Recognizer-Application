@@ -1,6 +1,9 @@
 ---
 
 # NER Application
+## Application Screenshot
+
+![NER Application Screenshot](https://github.com/sawanjr/NameEntity_Recognizer-Application/raw/master/src/main/resources/templates/Screenshot%202024-04-24%20141739.png)
 
 This Java Spring Boot application utilizes Stanford CoreNLP for Named Entity Recognition (NER).
 
