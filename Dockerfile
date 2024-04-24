@@ -6,4 +6,4 @@ COPY --from=build /target/ner-Application-0.0.1-SNAPSHOT.jar demo.jar
 EXPOSE 8081
 LABEL authors="ASUS"
 
-ENTRYPOINT ["java", "-jar" , "demo.jar"]
+ENTRYPOINT ["java", "-jar", "-Xmx1g", "demo.jar"]
