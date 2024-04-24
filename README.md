@@ -79,7 +79,7 @@ Response:
 
 This project was developed by:
 - [Sawan Kumar](https://github.com/sawanjr)
-- [Nimish Shandhaliya](https://github.com/AnonymousTechnopath)
+- [Nimish Shandilya](https://github.com/Anonymous-Technopath)
 
 
 ---
